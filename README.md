@@ -9,6 +9,10 @@ This project implements an AI-powered document query system using LangChain, Chr
 - Similarity searches on the database
 - AI-powered response generation for user queries
 
+## Architecture Diagram
+
+<img src="assets/architecture.png" width="400"></img>
+
 ## Requirements
 
 - Python 3.7+
